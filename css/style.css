@@ -1,0 +1,21 @@
+body {
+  background-color: antiquewhite;
+  font-size: 20px;
+}
+
+body header {
+  font-weight: 800;
+  background-color: rosybrown;
+  color: red;
+  width: 900px;
+  font-size: 20px;
+}
+
+body header img {
+  width: 200px;
+}
+
+footer {
+  background-color: aquamarine;
+  font-size: 20px;
+}
